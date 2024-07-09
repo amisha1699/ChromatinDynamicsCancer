@@ -1,10 +1,11 @@
 # ChromatinDynamicsCancer
 
 ## Overview
-The primary objective of this project was to analyze ChIP-seq and HiC data from p53 and mutant p53-specific control cell lines to identify unique genes and pathways regulated by these proteins. This research aimed to elucidate the roles of p53 and mutant p53 in tumor suppression and cancer progression and to understand how differential chromatin regulation influences oncogenic and tumor-suppressor gene activation or inactivation.
+The primary objective of this project was to analyze ChIP-seq and HiC data from p53 and mutant p53-specific control cell lines to identify unique genes and pathways regulated by these proteins. This research aimed to elucidate the roles of p53 and mutant p53 in tumor suppression and cancer progression and to understand how differential chromatin regulation influences oncogenic and tumor-suppressor gene activation or inactivation. we also correlated these 3D changes to genome functionality using RNA seq data from p53 and mut-p53 cell lines 
 
 ## Tools used - 
 * fastqc
+* Deseq2
 * cutadapt
 * bowtie2
 * MACS2
